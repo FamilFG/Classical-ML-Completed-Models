@@ -1,4 +1,4 @@
-# Python AI/ML Practice Repository
+# Python AI/ML Completed Models Repository
 
 This repository contains **completed Python implementations** of various AI/ML models and experiments.  
 
